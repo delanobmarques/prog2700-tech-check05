@@ -25,6 +25,7 @@ Create a simple React application that displays a list of recipes and their deta
 React Router, Axios, React Bootstrap dependencies are included in the project
 There are no tests included with this Tech Check. Simply try to display a result similar to the following:
 !["Expected Ouput"](./tech-check-05-a.PNG)
+--------------------------
 !["Expected Ouput"](./tech-check-05-b.PNG)
 ### Submission Instructions
 Once your program is complete, or if you run out of in-class time to complete the Tech Check, commit and push your code to GitHub with the commit message "End of Class"
