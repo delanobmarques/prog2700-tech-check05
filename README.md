@@ -17,12 +17,12 @@ Create a simple React application that displays a list of recipes and their deta
 ## Requirements
 1. Header Component: display navigation Links (Home and Recipes)
 2. Home Component: display information about the app
-3. Recipes Component: display all recipes (name, image, and ingredients) in a card (use Bootstrap)
+3. Recipes Component: display all recipes (name, image, and ingredients) in a card (use Bootstrap). The data should be fetched from the following API: https://dummyjson.com/recipes
 4. Footer Component: display your name 
-5. You should make use of the provided src files (e.g. try to make use of the provided CSS, although you may need to modify the selectors based on the HTML structure your JSX creates). You will need to link your new Components in through App.js for the application to work.
+5. You should make use of the provided src files (e.g. try to make use of the provided CSS, although you may need to modify the selectors based on the HTML structure your JSX creates). You will need to link your new Components through App.js for the application to work.
 
 ### Important Notes
-React Router, Axios, React Bootstrap dependencies are included in the project
+React Router, Axios, and React Bootstrap dependencies are included in the project.
 There are no tests included with this Tech Check. Simply try to display a result similar to the following:
 !["Expected Ouput"](./tech-check-05-a.PNG)
 --------------------------
